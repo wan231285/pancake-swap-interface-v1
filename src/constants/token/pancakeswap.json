@@ -1233,6 +1233,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x5621b5a3f4a8008c4ccdd1b942b121c8b1944f1f.png"
+    },
+    {
+      "name": "FREEBEE COIN",
+      "symbol": "FREEBEE",
+      "address": "0x4a5102228b37C27Cb8ef4fE58B7F8bdF51fb556A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wan231285/freebee-token-list/main/assets/freebee.png"
     }
   ]
 }
